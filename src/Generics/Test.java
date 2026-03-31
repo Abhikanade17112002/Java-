@@ -70,6 +70,11 @@ public class Test {
         // Java Does Not Support The Generic Generic Exception Due To Type Erasure
         // means that generic type information is removed at the run time
         // Like Extends which sets the upper bound we can also use super which will set the lower bound
+        
+        
+        
+        
+        // Read This Link ==> https://engineeringdigest.medium.com/generics-b158a743d18f
 
     }
 }
