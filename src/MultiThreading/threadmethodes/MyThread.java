@@ -61,6 +61,18 @@ public class MyThread extends Thread{
         thread3.start();
 
 
+
+
+        // Thread.interrupt() behavior:
+// - sleep() / wait() / join() → throws InterruptedException (thread wakes up)
+// - blocked (waiting for lock) → no immediate effect
+// - running → no exception, only interrupt flag is set (check via isInterrupted())
+
+// Easy memory:
+// Sleep/Wait → Exception 💥
+// Blocked/Running → Flag only 🤫
+
+
     }
 
 
