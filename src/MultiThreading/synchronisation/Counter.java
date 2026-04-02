@@ -1,4 +1,4 @@
-package synchronisation;
+package MultiThreading.synchronisation;
 
 public class Counter {
 

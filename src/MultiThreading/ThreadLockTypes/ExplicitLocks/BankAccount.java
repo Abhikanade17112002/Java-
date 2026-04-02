@@ -1,4 +1,4 @@
-package ThreadLockTypes.ExplicitLocks;
+package MultiThreading.ThreadLockTypes.ExplicitLocks;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;

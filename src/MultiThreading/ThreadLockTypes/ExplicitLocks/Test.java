@@ -1,4 +1,4 @@
-package ThreadLockTypes.ExplicitLocks;
+package MultiThreading.ThreadLockTypes.ExplicitLocks;
 
 // lock() → blocks indefinitely until lock is acquired (no timeout, can cause deadlock if not handled)
 

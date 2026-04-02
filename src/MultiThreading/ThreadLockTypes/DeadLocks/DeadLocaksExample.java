@@ -1,4 +1,4 @@
-package ThreadLockTypes.DeadLocks;
+package MultiThreading.ThreadLockTypes.DeadLocks;
 
 public class DeadLocaksExample {
 

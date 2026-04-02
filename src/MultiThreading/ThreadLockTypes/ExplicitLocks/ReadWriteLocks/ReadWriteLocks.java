@@ -1,4 +1,4 @@
-package ThreadLockTypes.ExplicitLocks.ReadWriteLocks;
+package MultiThreading.ThreadLockTypes.ExplicitLocks.ReadWriteLocks;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class ReadWriteLocks {

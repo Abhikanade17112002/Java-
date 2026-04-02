@@ -1,4 +1,4 @@
-package ThreadLockTypes.ExplicitLocks.WhyReentrendLock;
+package MultiThreading.ThreadLockTypes.ExplicitLocks.WhyReentrendLock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

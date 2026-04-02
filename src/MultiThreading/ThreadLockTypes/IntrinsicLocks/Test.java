@@ -1,4 +1,4 @@
-package ThreadLockTypes.IntrinsicLocks;
+package MultiThreading.ThreadLockTypes.IntrinsicLocks;
 
 public class Test {
     public static void main(String[] args) throws InterruptedException {
